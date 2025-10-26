@@ -37,7 +37,7 @@ The solver's capabilities have been verified through the following benchmark pro
 *   **Key Highlight:** The present LBM algorithm correctly predicts a zero final velocity upon impact, accurately modeling the particle as rigid, unlike some FEM approaches that show residual velocity due to mesh deformation.
 
 <p align="center">
-  <img src="media/image1.jpeg" alt="Schematic 1" width="40%">
+  <img src="./media/image1.jpeg" alt="Schematic 1" width="40%">
   <br>
   <em>Figure 1.1: Geometry of a circular particle settling in a Newtonian fluid.</em>
 </p>
