@@ -58,7 +58,7 @@ The solver's capabilities have been verified through the following benchmark pro
 *   **Key Highlight:** The LBM solver successfully captures the complex interaction where the trailing particle (P1) catches up and collides with the leading particle (P2) due to reduced drag in its wake.
 
 <p align="center">
-  <img src="media/image6.jpeg" alt="Schematic 2" width="40%">
+  <img src="media/image6.jpg" alt="Schematic 2" width="40%">
   <br>
   <em>Figure 2.1: Geometry of two circular particles settling in a Newtonian fluid.</em>
 </p>
