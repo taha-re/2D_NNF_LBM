@@ -6,7 +6,7 @@
 
 ## 👨‍🔬 Author Information
 
-**Taha Reza**  
+**Taha Rezaee**  
 📧 **Email:** [rezaee.taha@gmail.com](mailto:rezaee.taha@gmail.com)  |  🔬 **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6807-0765)
 
 ---
