@@ -119,9 +119,26 @@ The solver's capabilities have been verified through the following benchmark pro
 </p>
 
 <p align="center">
-  <img src="media/image22.jpeg" alt="Drag Coefficient Osc" width="60%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/Cd.jpg" alt="Drag Coefficient Osc" width="60%">
   <br>
   <em>Figure 4.2: Time history of the drag coefficient (Re=100, KC=5).</em>
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n0.jpg" alt="Image 1" width="90%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n1.png" alt="Image 2" width="90%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n2.jpg" alt="Image 3" width="90%"></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n4.jpg" alt="Image 5" width="90%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n8.jpg" alt="Image 6" width="90%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n12.jpg" alt="Image 7" width="90%"></td>
+    </tr>
+  </table>
+  <br>
+  <em>Figure 4.3: Comparison of the velocity components at four cross-sections with constant x-value. Phase position (left) 180◦, (middle) 210◦ and (right) 330◦.</em>
 </p>
 
 ---
