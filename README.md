@@ -34,11 +34,11 @@ The solver's capabilities have been verified through the following benchmark pro
 ### 1. Free Fall of a Rigid Circular Particle in a Newtonian Fluid
 *   **Folder:** `1_FreeFall_Circular`
 *   **Description:** A rigid circular particle is released from rest in a closed 2D channel filled with a Newtonian fluid and settles under gravity. The simulation captures the particle's trajectory, velocity, translational kinetic energy, and Reynolds number until it impacts the bottom wall.
-*   **Validation:** Results for vertical position, velocity, and kinetic energy show excellent agreement with Finite Element Method (FEM) results from **Wan & Turek [74]**.
+*   **Validation:** Results for vertical position, velocity, and kinetic energy show excellent agreement with Finite Element Method (FEM) results from **Wan & Turek**.
 *   **Key Highlight:** The present LBM algorithm correctly predicts a zero final velocity upon impact, accurately modeling the particle as rigid, unlike some FEM approaches that show residual velocity due to mesh deformation.
 
 <p align="center">
-  <img src="./media/image1.jpeg" alt="Schematic 1" width="40%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/image1.jpg" alt="Schematic 1" width="40%">
   <br>
   <em>Figure 1.1: Geometry of a circular particle settling in a Newtonian fluid.</em>
 </p>
