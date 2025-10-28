@@ -143,11 +143,11 @@ The solver's capabilities have been verified through the following benchmark pro
 ### 6. Free Fall of a Rigid Particle in a Yield-Stress Fluid
 *   **Folder:** `6_FreeFall_YieldStress`
 *   **Description:** A rigid circular particle settles under gravity in a 2D channel filled with a Bingham fluid. The terminal velocity and settling behavior are investigated for different yield numbers (Y).
-*   **Validation:** The time history of the settling velocity for a specific yield number (Y=0.033) agrees well with the results of **Wachs & Frigaard [77]**, who used an Augmented Lagrangian (AL) with Distributed Lagrange Multiplier/Fictitious Domain (DLM/FD) method.
+*   **Validation:** The time history of the settling velocity for a specific yield number (Y=0.033) agrees well with the results of **Wachs & Frigaard**, who used an Augmented Lagrangian (AL) with Distributed Lagrange Multiplier/Fictitious Domain (DLM/FD) method.
 *   **Key Highlight:** Confirms the solver's capability to handle fully coupled fluid-particle dynamics in complex non-Newtonian fluids.
 
 <p align="center">
-  <img src="media/image33.jpeg" alt="Settling Velocity Yield" width="50%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_bingham.jpg" alt="Settling Velocity Yield" width="50%">
   <br>
   <em>Figure 6.1: Time history of settling velocity in a yield-stress fluid for Y=0.033.</em>
 </p>
