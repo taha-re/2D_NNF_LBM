@@ -53,9 +53,9 @@ The solver's capabilities have been verified through the following benchmark pro
 ---
 
 ### 2. Interaction of Two Settling Particles in a Newtonian Fluid
-*   **Folder:** `2_TwoParticle_Interaction`
+*   **Folder:** `2_DKT_Newtonian`
 *   **Description:** This case tests the implemented force scheme by simulating the interaction and drafting-kissing-tumbling (DKT) dynamics of two settling circular particles in a Newtonian fluid.
-*   **Validation:** The time histories of vertical/horizontal position and velocity for both particles match well with the FEM results of **Wan & Turek [74]**.
+*   **Validation:** The time histories of vertical/horizontal position and velocity for both particles match well with the FEM results of **Wan & Turek**.
 *   **Key Highlight:** The LBM solver successfully captures the complex interaction where the trailing particle (P1) catches up and collides with the leading particle (P2) due to reduced drag in its wake.
 
 <p align="center">
@@ -65,10 +65,10 @@ The solver's capabilities have been verified through the following benchmark pro
 </p>
 
 <p align="center">
-  <img src="media/image8.jpeg" alt="Vertical Pos 2P" width="45%">
-  <img src="media/image9.jpeg" alt="Horizontal Pos 2P" width="45%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/y_dkt.jpeg" alt="Vertical Pos 2P" width="45%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_dkt.jpeg" alt="Horizontal Pos 2P" width="45%">
   <br>
-  <em>Figure 2.2: Time history of vertical (a) and horizontal (b) positions for the two interacting particles. (Solid lines: Present LBM, Symbols: Wan & Turek [74]).</em>
+  <em>Figure 2.2: Time history of vertical position (left) and vertical velocity (right) for the two interacting particles. (Solid lines: Present LBM, Symbols: Wan & Turek).</em>
 </p>
 
 ---
