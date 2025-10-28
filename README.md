@@ -76,7 +76,7 @@ The solver's capabilities have been verified through the following benchmark pro
 ### 3. Sedimentation of Multiple Particles in a 2D Closed Cavity
 *   **Folder:** `3_MultiParticle_Sedimentation`
 *   **Description:** This case evaluates the solver's ability to handle a large number of particles. 504 circular particles are released from rest in a closed 2D cavity.
-*   **Validation:** The overall sedimentation process and the formation of two vortices near the side walls are consistent with the finite difference results of **Glowinski et al. [71]**.
+*   **Validation:** The overall sedimentation process and the formation of two vortices near the side walls are consistent with the finite difference results of **Glowinski et al.**.
 *   **Key Highlight:** The solver efficiently manages multi-body interactions and collision dynamics in a dense system.
 
 <p align="center">
