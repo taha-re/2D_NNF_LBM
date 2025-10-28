@@ -127,7 +127,7 @@ The solver's capabilities have been verified through the following benchmark pro
 *   **Key Highlight:** The solver reliably computes forces in yield-stress fluids. Results show that drag becomes independent of channel confinement for Bn ≥ 10 and increases sharply with Bn.
 
 <p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/bcc.png" alt="Schematic Yield Stress Drag" width="70%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/bcc.png" alt="Schematic Yield Stress Drag" width="50%">
   <br>
   <em>Figure 5.1: Geometry for drag on a particle in creeping flow of a yield-stress fluid.</em>
 </p>
