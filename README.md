@@ -1,4 +1,5 @@
 # 2D_NNF_LBM: Lattice Boltzmann Method (LBM) Solver for Non-Newtonain Fluid-Particle Interactions
+## !! this repository is under construction !!
 
 [![DOI](https://img.shields.io/badge/DOI-10.1063%2F5.0265952-blue)](https://doi.org/10.1063/5.0265952)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.euromechflu.2025.20426-blue)](https://doi.org/10.1016/j.euromechflu.2025.20426)
