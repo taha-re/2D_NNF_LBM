@@ -16,7 +16,7 @@
 This repository contains a Fortran code implementing a Lattice Boltzmann Method (LBM) solver, developed during my PhD research. The solver is designed for complex multi-physics simulations, including:
 
 *   **Fluid-Solid Interaction (FSI):** Simulating the motion of rigid and deformable particles in Newtonian and non-Newtonian fluids.
-*   **Non-Newtonian Fluids:** Modeling viscoplastic (Bingham-type) fluids with yield stress.
+*   **Non-Newtonian Fluids:** Modeling viscoplastic (Bingham-Casson) fluids with yield stress.
 *   **Porous Media:** Simulating the dynamics of porous particles within a fluid domain.
 
 The code has been rigorously validated against established benchmarks and finite element method (FEM) results, demonstrating excellent accuracy and robustness. It has been used as the core simulation engine for several peer-reviewed publications.
