@@ -44,7 +44,7 @@ The solver's capabilities have been verified through the following benchmark pro
 *   **Key Highlight:** The present LBM algorithm correctly predicts a zero final velocity upon impact, accurately modeling the particle as rigid, unlike some FEM approaches that show residual velocity due to mesh deformation.
 
 <p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/image1.jpg" alt="Schematic 1" width="15%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/sehe1.jpg" alt="Schematic 1" width="10%">
   <br>
   <em>Figure 1.1: Geometry of a circular particle settling in a Newtonian fluid.</em>
 </p>
@@ -65,7 +65,7 @@ The solver's capabilities have been verified through the following benchmark pro
 *   **Key Highlight:** The LBM solver successfully captures the complex interaction where the trailing particle (P1) catches up and collides with the leading particle (P2) due to reduced drag in its wake.
 
 <p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/dkt.png" alt="Schematic 2" width="15%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/sehe2.jpg" alt="Schematic 2" width="15%">
   <br>
   <em>Figure 2.1: Geometry of two circular particles settling in a Newtonian fluid.</em>
 </p>
@@ -113,7 +113,7 @@ The solver's capabilities have been verified through the following benchmark pro
 *   **Key Highlight:** This case underscores the critical importance of including the **internal mass (or added mass)** effect in the momentum exchange calculation for unsteady flows. Neglecting it leads to significant errors in the predicted force on the body.
 
 <p align="center">
-  <img src="media/image21.jpeg" alt="Schematic Oscillating" width="50%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/sehe5.jpg" alt="Schematic Oscillating" width="30%">
   <br>
   <em>Figure 4.1: Geometry of an oscillating particle in a stationary fluid.</em>
 </p>
@@ -133,13 +133,13 @@ The solver's capabilities have been verified through the following benchmark pro
 *   **Key Highlight:** The solver reliably computes forces in yield-stress fluids. Results show that drag becomes independent of channel confinement for Bn ≥ 10 and increases sharply with Bn.
 
 <p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/bcc.png" alt="Schematic Yield Stress Drag" width="50%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/sehe4.jpg" alt="Schematic Yield Stress Drag" width="30%">
   <br>
   <em>Figure 5.1: Geometry for drag on a particle in creeping flow of a yield-stress fluid.</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/bcc2.jpeg" alt="Drag Coefficient Yield" width="50%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/bcc2.jpeg" alt="Drag Coefficient Yield" width="40%">
   <br>
   <em>Figure 5.2: Drag coefficient on a particle in Bingham plastic creeping flow. (Lines: Present LBM, Symbols: FEM).</em>
 </p>
