@@ -119,7 +119,7 @@ The solver's capabilities have been verified through the following benchmark pro
 </p>
 
 <p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/Cd.jpg" alt="Drag Coefficient Osc" width="60%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/Cd.jpeg" alt="Drag Coefficient Osc" width="60%">
   <br>
   <em>Figure 4.2: Time history of the drag coefficient (Re=100, KC=5).</em>
 </p>
@@ -127,14 +127,14 @@ The solver's capabilities have been verified through the following benchmark pro
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n0.jpg" alt="Image 1" width="90%"></td>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n1.png" alt="Image 2" width="90%"></td>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n2.jpg" alt="Image 3" width="90%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/ux_a.jpeg" alt="Image 1" width="80%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/ux_b.jpeg" alt="Image 2" width="80%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/ux_c.jpeg" alt="Image 3" width="80%"></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n4.jpg" alt="Image 5" width="90%"></td>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n8.jpg" alt="Image 6" width="90%"></td>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n12.jpg" alt="Image 7" width="90%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_a.jpeg" alt="Image 5" width="80%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_b.jpeg" alt="Image 6" width="80%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_c.jpeg" alt="Image 7" width="80%"></td>
     </tr>
   </table>
   <br>
