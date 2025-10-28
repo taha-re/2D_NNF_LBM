@@ -50,8 +50,8 @@ The solver's capabilities have been verified through the following benchmark pro
 </p>
 
 <p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/y.jpeg" alt="Vertical Position" width="45%">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy.jpeg" alt="Vertical Velocity" width="45%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/y.jpeg" alt="Vertical Position" width="40%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy.jpeg" alt="Vertical Velocity" width="40%">
   <br>
   <em>Figure 1.2: Time history of vertical position (left) and vertical velocity (right).</em>
 </p>
@@ -71,8 +71,8 @@ The solver's capabilities have been verified through the following benchmark pro
 </p>
 
 <p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/y_dkt.jpeg" alt="Vertical Pos 2P" width="45%">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_dkt.jpeg" alt="Horizontal Pos 2P" width="45%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/y_dkt.jpeg" alt="Vertical Pos 2P" width="40%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_dkt.jpeg" alt="Horizontal Pos 2P" width="40%">
   <br>
   <em>Figure 2.2: Time history of vertical position (left) and vertical velocity (right) for the two interacting particles. (Solid lines: Present LBM, Symbols: Wan & Turek).</em>
 </p>
@@ -101,6 +101,8 @@ The solver's capabilities have been verified through the following benchmark pro
     </tr>
   </table>
   <br>
+</p>
+<p align="center">
   <em>Figure 3.1: Instantaneous positions of particles at different times during multi-particle sedimentation.</em>
 </p>
 
@@ -114,31 +116,26 @@ The solver's capabilities have been verified through the following benchmark pro
 
 <p align="center">
   <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/sehe5.jpg" alt="Schematic Oscillating" width="30%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/Cd.jpeg" alt="Drag Coefficient Osc" width="30%">
   <br>
-  <em>Figure 4.1: Geometry of an oscillating particle in a stationary fluid.</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/Cd.jpeg" alt="Drag Coefficient Osc" width="60%">
-  <br>
-  <em>Figure 4.2: Time history of the drag coefficient (Re=100, KC=5).</em>
+  <em>Figure 4.1: (left) Geometry of an oscillating particle in a stationary fluid. (right) Time history of the drag coefficient (Re=100, KC=5). </em>
 </p>
 
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/ux_a.jpeg" alt="Image 1" width="80%"></td>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/ux_b.jpeg" alt="Image 2" width="80%"></td>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/ux_c.jpeg" alt="Image 3" width="80%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/ux_a.jpeg" alt="Image 1" width="90%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/ux_b.jpeg" alt="Image 2" width="90%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/ux_c.jpeg" alt="Image 3" width="90%"></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_a.jpeg" alt="Image 5" width="80%"></td>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_b.jpeg" alt="Image 6" width="80%"></td>
-      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_c.jpeg" alt="Image 7" width="80%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_a.jpeg" alt="Image 5" width="90%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_b.jpeg" alt="Image 6" width="90%"></td>
+      <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_c.jpeg" alt="Image 7" width="90%"></td>
     </tr>
   </table>
   <br>
-  <em>Figure 4.3: Comparison of the velocity components at four cross-sections with constant x-value. Phase position (left) 180◦, (middle) 210◦ and (right) 330◦.</em>
+  <em>Figure 4.2: Comparison of the velocity components at four cross-sections with constant x-value. Phase position (left) 180◦, (middle) 210◦ and (right) 330◦.</em>
 </p>
 
 ---
