@@ -44,7 +44,7 @@ The solver's capabilities have been verified through the following benchmark pro
 </p>
 
 <p align="center">
-  <img src="media/image2.jpeg" alt="Vertical Position" width="45%">
+  <img src="./media/image2.jpeg" alt="Vertical Position" width="45%">
   <img src="media/image3.jpeg" alt="Vertical Velocity" width="45%">
   <br>
   <em>Figure 1.2: Time history of vertical position (left) and vertical velocity (right).</em>
