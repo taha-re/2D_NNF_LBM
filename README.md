@@ -59,7 +59,7 @@ The solver's capabilities have been verified through the following benchmark pro
 *   **Key Highlight:** The LBM solver successfully captures the complex interaction where the trailing particle (P1) catches up and collides with the leading particle (P2) due to reduced drag in its wake.
 
 <p align="center">
-  <img src="media/image6.jpg" alt="Schematic 2" width="40%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/dkt.png" alt="Schematic 2" width="15%">
   <br>
   <em>Figure 2.1: Geometry of two circular particles settling in a Newtonian fluid.</em>
 </p>
@@ -123,19 +123,19 @@ The solver's capabilities have been verified through the following benchmark pro
 ### 5. Drag on a Particle in Creeping Flow of a Yield-Stress Fluid
 *   **Folder:** `5_YieldStress_Drag`
 *   **Description:** The drag force on a stationary circular particle in a creeping flow of a Bingham-Papanastasiou fluid is computed for a wide range of Bingham numbers (Bn) and channel confinement ratios (H/D).
-*   **Validation:** The computed drag coefficients show remarkable agreement with Finite Element Method results from **Mitsoulis [76]**.
+*   **Validation:** The computed drag coefficients show remarkable agreement with Finite Element Method results from **Mitsoulis**.
 *   **Key Highlight:** The solver reliably computes forces in yield-stress fluids. Results show that drag becomes independent of channel confinement for Bn ≥ 10 and increases sharply with Bn.
 
 <p align="center">
-  <img src="media/image31.jpeg" alt="Schematic Yield Stress Drag" width="70%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/bcc.png" alt="Schematic Yield Stress Drag" width="70%">
   <br>
   <em>Figure 5.1: Geometry for drag on a particle in creeping flow of a yield-stress fluid.</em>
 </p>
 
 <p align="center">
-  <img src="media/image32.jpeg" alt="Drag Coefficient Yield" width="50%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/bcc2.jpeg" alt="Drag Coefficient Yield" width="50%">
   <br>
-  <em>Figure 5.2: Drag coefficient on a particle in Bingham plastic creeping flow. (Lines: Present LBM, Symbols: FEM [76]).</em>
+  <em>Figure 5.2: Drag coefficient on a particle in Bingham plastic creeping flow. (Lines: Present LBM, Symbols: FEM).</em>
 </p>
 
 ---
