@@ -7,8 +7,7 @@
 ## 👨‍🔬 Author Information
 
 **Taha Reza**  
-📧 **Email:** [rezaee.taha@gmail.com](mailto:rezaee.taha@gmail.com)  
-🔬 **ORCID:** [0009-0008-6807-0765](https://orcid.org/0009-0008-6807-0765) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6807-0765)
+📧 **Email:** [rezaee.taha@gmail.com](mailto:rezaee.taha@gmail.com)  |  🔬 **ORCID:** [0009-0008-6807-0765](https://orcid.org/0009-0008-6807-0765) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6807-0765)
 
 ---
 
