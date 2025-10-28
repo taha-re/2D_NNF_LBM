@@ -1,9 +1,16 @@
-# 2D_NNF_LBM: Lattice Boltzmann Method (LBM) Solver for Non-Newtonain Fluid-Particle Interactions
-## !! this repository is under construction !!
+# 🔬 2D_NNF_LBM: Lattice Boltzmann Method for Non-Newtonian Fluid-Particle Interactions
 
-[![DOI](https://img.shields.io/badge/DOI-10.1063%2F5.0265952-blue)](https://doi.org/10.1063/5.0265952)
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.euromechflu.2025.20426-blue)](https://doi.org/10.1016/j.euromechflu.2025.20426)
+> **🚧 Repository Under Construction** | *Advanced CFD solver for complex fluid-structure interaction problems*
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+---
+
+## 👨‍🔬 Author Information
+
+**Taha Reza**  
+📧 **Email:** [rezaee.taha@gmail.com](mailto:rezaee.taha@gmail.com)  
+🔬 **ORCID:** [0009-0008-6807-0765](https://orcid.org/0009-0008-6807-0765) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6807-0765)
+
+---
 
 ## 📖 About
 
@@ -19,11 +26,11 @@ The code has been rigorously validated against established benchmarks and finite
 
 This code has been used in the following scientific publications:
 
-1.  **Rezaee, T.** (2025). Why Do Viscoplastic Fluids Adhere to Moving Surfaces? *Physics of Fluids*. [DOI: 10.1063/5.0265952](https://doi.org/10.1063/5.0265952)
-2.  **Rezaee, T.** (2025). Dynamics of a neutrally-buoyant elliptic particle in a square cavity with two adjacent moving walls: a lattice Boltzmann simulation. *European Journal of Mechanics B/Fluids*. [DOI: 10.1016/j.euromechflu.2025.20426](https://doi.org/10.1016/j.euromechflu.2025.20426)
-3.  **Rezaee, T.**, et al. (2024). On the use of sinusoidal vibrations for disaggregating clusters of non-settling inertial particles immersed in yield-stress fluids. *Journal of Non-Newtonian Fluid Mechanics*. [DOI: 10.1016/j.jnnfm.2024.105261](https://doi.org/10.1016/j.jnnfm.2024.105261)
-4.  **Rezaee, T.**, et al. (2023). Settling dynamics of circular particles in vibrating tanks filled with a yield-stress liquid. *Physics of Fluids*, 35(5). [DOI: 10.1063/5.0150359](https://doi.org/10.1063/5.0150359)
-5.  **Rezaee, T.**, et al. (2019). Effect of porosity on the settling behavior of a 2D elliptic particle in a narrow vessel: a lattice Boltzmann simulation. *Physics of Fluids*, 31(12). [DOI: 10.1063/1.5125172](https://doi.org/10.1063/1.5125172)
+1.  **Rezaee, T.** (2025). Why Do Viscoplastic Fluids Adhere to Moving Surfaces? *Physics of Fluids*. [![DOI](https://img.shields.io/badge/DOI-10.1063%2F5.0265952-blue)](https://doi.org/10.1063/5.0265952)
+2.  **Rezaee, T.** (2025). Dynamics of a neutrally-buoyant elliptic particle in a square cavity with two adjacent moving walls: a lattice Boltzmann simulation. *European Journal of Mechanics B/Fluids*. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.euromechflu.2025.20426-blue)](https://doi.org/10.1016/j.euromechflu.2025.20426)
+3.  **Rezaee, T.**, et al. (2024). On the use of sinusoidal vibrations for disaggregating clusters of non-settling inertial particles immersed in yield-stress fluids. *Journal of Non-Newtonian Fluid Mechanics*.  [![DOI](https://img.shields.io/badge/DOI-10.1016/j.jnnfm.2024.105261-blue)]([https://doi.org/10.1016/j.euromechflu.2025.20426](https://doi.org/10.1016/j.jnnfm.2024.105261)) 
+4.  **Rezaee, T.**, et al. (2023). Settling dynamics of circular particles in vibrating tanks filled with a yield-stress liquid. *Physics of Fluids*, 35(5). [![DOI](https://img.shields.io/badge/DOI-10.1063/5.0150359-blue)](https://doi.org/10.1063/5.0150359)
+5.  **Rezaee, T.**, et al. (2019). Effect of porosity on the settling behavior of a 2D elliptic particle in a narrow vessel: a lattice Boltzmann simulation. *Physics of Fluids*, 31(12). [![DOI](https://img.shields.io/badge/DOI-10.1063/1.5125172-blue)](https://doi.org/10.1063/1.5125172)
 
 ---
 
