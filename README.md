@@ -147,7 +147,7 @@ The solver's capabilities have been verified through the following benchmark pro
 *   **Key Highlight:** Confirms the solver's capability to handle fully coupled fluid-particle dynamics in complex non-Newtonian fluids.
 
 <p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_bingham.jpg" alt="Settling Velocity Yield" width="50%">
+  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_bingham.jpeg" alt="Settling Velocity Yield" width="40%">
   <br>
   <em>Figure 6.1: Time history of settling velocity in a yield-stress fluid for Y=0.033.</em>
 </p>
