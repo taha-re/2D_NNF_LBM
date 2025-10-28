@@ -80,13 +80,6 @@ The solver's capabilities have been verified through the following benchmark pro
 *   **Key Highlight:** The solver efficiently manages multi-body interactions and collision dynamics in a dense system.
 
 <p align="center">
-  <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n0.jpg" alt="Multi Particle t0" width="30%">
-  <img src="media/image13.png" alt="Multi Particle t1" width="30%">
-  <img src="media/image14.png" alt="Multi Particle t2" width="30%">
-  <br>
-  <em>Figure 3.1: Instantaneous positions of particles at different times during multi-particle sedimentation.</em>
-</p>
-<p align="center">
   <table align="center">
     <tr>
       <td align="center"><img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/n0.jpg" alt="Image 1" width="90%"></td>
@@ -102,8 +95,9 @@ The solver's capabilities have been verified through the following benchmark pro
     </tr>
   </table>
   <br>
-  <em>Figure 3.1: Caption for your 2x4 figure grid.</em>
+  <em>Figure 3.1: Instantaneous positions of particles at different times during multi-particle sedimentation.</em>
 </p>
+
 ---
 
 ### 4. Oscillating Circular Particle in a Stationary Fluid
