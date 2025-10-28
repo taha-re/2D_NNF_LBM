@@ -190,12 +190,9 @@ The solver's capabilities have been verified through the following benchmark pro
     ```bash
     ./lbm_solver
     ```
-4.  The code will generate output files (e.g., VTK files for visualization or text files for data) in the folder.
+4.  The code will generate output files (which should be post-processesed by python or Tecplot) in the folder.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
-
-This code was developed as part of my PhD research. I would like to thank my advisors and colleagues for their support and contributions.
