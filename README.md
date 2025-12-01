@@ -1,6 +1,6 @@
 # 🔬 2D_NNF_LBM: Lattice Boltzmann Method for Non-Newtonian Fluid-Particle Interactions
 
-> **🚧 Repository Under Construction** | *Advanced CFD solver for complex fluid-structure interaction problems*
+>  *Advanced CFD solver for complex fluid-structure interaction problems*
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ---
 
@@ -170,42 +170,6 @@ The solver's capabilities have been verified through the following benchmark pro
   <img src="https://github.com/taha-re/2D_NNF_LBM/blob/main/media/uy_bingham.jpeg" alt="Settling Velocity Yield" width="40%">
   <br>
   <em>Figure 6.1: Time history of settling velocity in a yield-stress fluid for Y=0.033.</em>
-</p>
-
----
-
-### 7. Settling of an Impermeable Elliptic Porous Particle in a Newtonian Fluid
-*   **Folder:** `7_Porous_Elliptic`
-*   **Description:** The trajectory of an impermeable elliptic particle settling in a narrow channel is simulated, with initial conditions both on and off the channel centerline.
-*   **Validation:** The particle's settling path in both wide (β=4) and narrow (β=16/13) channels is in excellent agreement with the results of **Xia et al. [78]** and **Zhou et al. [79]**.
-*   **Key Highlight:** Validates the porous media module. The particle is modeled as effectively impermeable by using very low porosity (ε=0.1) and Darcy number (Da=10⁻⁶).
-
-<p align="center">
-  <img src="media/image34.png" alt="Porous Wide Channel" width="45%">
-  <img src="media/image35.png" alt="Porous Narrow Channel 1" width="45%">
-  <br>
-  <em>Figure 7.1: Comparison of particle trajectory with Xia et al. [78] for an impermeable particle in a wide channel (left) and a narrow channel (right).</em>
-</p>
-
----
-
-### 8. Circular Porous Particle in a Fluid between Two Moving Plates
-*   **Folder:** `8_Porous_ShearFlow`
-*   **Description:** A stationary circular porous particle is placed in a channel where the top and bottom walls move with a constant velocity, creating a shear flow.
-*   **Validation:** The velocity profiles along two cross-sections (A-A and B-B) through the domain show perfect agreement with the numerical results of **Pepona & Favier [80]**.
-*   **Key Highlight:** Further confirms the accuracy of the porous media solver for different flow configurations.
-
-<p align="center">
-  <img src="media/image38.jpeg" alt="Schematic Porous Shear" width="70%">
-  <br>
-  <em>Figure 8.1: Geometry for a porous particle in shear flow between two moving plates.</em>
-</p>
-
-<p align="center">
-  <img src="media/image39.png" alt="Velocity Profile A-A" width="45%">
-  <img src="media/image40.png" alt="Velocity Profile B-B" width="45%">
-  <br>
-  <em>Figure 8.2: Velocity profile comparison along cross-section A-A (left) and B-B (right). (Lines: Present LBM, Symbols: Pepona & Favier [80]).</em>
 </p>
 
 ---
